@@ -1,160 +1,130 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718814604648 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718815015112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814607767 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815018169 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814610832 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815021258 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814613943 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815024335 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814617194 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815027399 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814620311 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815030645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814623354 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815033695 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814626412 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815036726 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814629456 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815039793 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814632516 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815042835 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814635567 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815045872 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814638615 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815048937 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814641810 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815052156 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814644898 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815055252 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814647958 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815058288 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814651049 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815061344 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814654133 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815064453 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814657191 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815067514 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814660256 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815070573 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814663342 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815073628 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814666460 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815076671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
 these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814669500 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
-these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814672545 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
-these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814675594 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
-these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814678646 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
-these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814681694 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-does-browsers.gl.at.ply.gg:12649 => 127.0.0.1:12649 (proto: Udp, port count: 1)
-these-omaha.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718814684735 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718815079774 tunnel running, 2 tunnels registered
 
 
 TUNNELS
