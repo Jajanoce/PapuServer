@@ -54,28 +54,28 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "these-omaha.gl.joinmc.link",
-          "assigned_srv": "these-omaha.gl.joinmc.link",
+          "assigned_domain": "profile-trout.gl.joinmc.link",
+          "assigned_srv": "profile-trout.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "bc574f5f-32f6-4377-b91a-0278eb3fdca9",
+          "id": "a2b9bab1-d411-45dc-9f5d-696ab062a9f5",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 31736,
-          "port_start": 31735,
+          "port_end": 35682,
+          "port_start": 35681,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-19T16:21:11.828009Z",
+      "created_at": "2024-06-23T04:07:32.313155Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "12c6c74e-8fa1-470d-b2b0-f5ee8e390a74",
+      "id": "ff9ec9ad-8130-408c-a252-15931f2aa366",
       "name": "Minecraft Java",
       "origin": {
         "data": {
